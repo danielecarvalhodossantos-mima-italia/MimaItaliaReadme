@@ -4,7 +4,7 @@ Readme pubblico di Mima Italia
 Mima Italia (www.mima-italia.it) | Marketplace di matching famiglie/operatori di assistenza
 Progetto full-stack progettato, sviluppato e portato in produzione in autonomia, senza supporto di un team tecnico.
 Cosa fa
-Piattaforma di matching two-sided che connette famiglie in cerca di assistenza (anziani, disabilità, babysitting) con operatori qualificati (OSS, ASA, educatori, babysitter). Il matching avviene sulla piattaforma; il pagamento del servizio resta tra le parti — Mima genera ricavi tramite commissione per lo sblocco del contatto con il candidato scelto.
+Piattaforma di matching two-sided che connette famiglie in cerca di assistenza (anziani, disabilità, babysitting) con operatori qualificati (OSS, ASA, educatori, babysitter). Il matching avviene sulla piattaforma; il pagamento del servizio resta tra le parti, Mima genera ricavi tramite commissione per lo sblocco del contatto con il candidato scelto.
 
 Stack tecnico
 Frontend: React, Chakra UI
